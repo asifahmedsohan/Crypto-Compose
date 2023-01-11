@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.presentation.theme
+package com.plcoding.cryptocurrencyappyt.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
